@@ -4,7 +4,7 @@
 project = "example-reactjs"
 
 # Labels can be specified for organizational purposes.
-# labels = { "foo" = "bar" }
+labels = { "foo" = "bar" }
 
 # An application to deploy.
 app "example-reactjs" {
